@@ -59,24 +59,25 @@ git clone https://github.com/<your-username>/property-insights-dashboard.git
 cd property-insights-dashboard
 
 
+### 1. For Sale Properties
+![For Sale Properties](https://raw.githubusercontent.com/sachindhital/Interface/main/image.png)
 
-###1 For Sale properties 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image.png)
+### 2. For Sale Properties (Alt View)
+![For Sale Properties 2](https://raw.githubusercontent.com/sachindhital/Interface/main/image-1.png)
 
-###1 For Sale properties 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-1.png)
+## 1. For Schools
+![Schools Data](https://raw.githubusercontent.com/sachindhital/Interface/main/image-2.png)
 
-##1 For School
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-2.png)
+## 2. Amenities 
+![Amenities](https://raw.githubusercontent.com/sachindhital/Interface/main/image-3.png)
 
-##2 Amenities 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-3.png)
+## 3. Development 
+![Development](https://raw.githubusercontent.com/sachindhital/Interface/main/image-4.png)
 
-##3 Development 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-4.png)
+## 4. Ethnicity 
+![Ethnicity](https://raw.githubusercontent.com/sachindhital/Interface/main/image-5.png)
 
-##4 Ethnicity 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-5.png)
+## 5. Pocket Prices 
+![Pocket Prices](https://raw.githubusercontent.com/sachindhital/Interface/main/image-6.png)
 
-##5 Pocket PRices 
-![alt text](https://github.com/sachindhital/Interface/blob/main/image-6.png)
+##6
