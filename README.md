@@ -57,3 +57,26 @@ It transforms complex real estate, school, demographic, and development data int
 ```bash
 git clone https://github.com/<your-username>/property-insights-dashboard.git
 cd property-insights-dashboard
+
+
+
+###1 For Sale properties 
+![alt text](image.png)
+
+###1 For Sale properties 
+![alt text](image-1.png)
+
+##1 For School
+![alt text](image-2.png)
+
+##2 Amenities 
+![alt text](image-3.png)
+
+##3 Development 
+![alt text](image-4.png)
+
+##4 Ethnicity 
+![alt text](image-5.png)
+
+##5 Pocket PRices 
+![alt text](image-6.png)
