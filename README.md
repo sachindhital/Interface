@@ -61,22 +61,22 @@ cd property-insights-dashboard
 
 
 ###1 For Sale properties 
-![alt text](image.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image.png)
 
 ###1 For Sale properties 
-![alt text](image-1.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-1.png)
 
 ##1 For School
-![alt text](image-2.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-2.png)
 
 ##2 Amenities 
-![alt text](image-3.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-3.png)
 
 ##3 Development 
-![alt text](image-4.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-4.png)
 
 ##4 Ethnicity 
-![alt text](image-5.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-5.png)
 
 ##5 Pocket PRices 
-![alt text](image-6.png)
+![alt text](https://github.com/sachindhital/Interface/blob/main/image-6.png)
